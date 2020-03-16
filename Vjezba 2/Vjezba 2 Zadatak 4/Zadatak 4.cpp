@@ -27,6 +27,7 @@ int main()
     p_arr = fun(n);
     for(int j = 0; j < n;j++)
         cout << p_arr[j] << " ";
-    free(p_arr);
+    delete [] p_arr;
+    p_arr = 0;
     return 0;
 }
