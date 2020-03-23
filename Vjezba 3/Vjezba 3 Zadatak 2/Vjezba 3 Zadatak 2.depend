@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584994899 source:c:\users\lukin\documents\oop-vjezbe\vjezba 3\vjezba 3 zadatak 2\zadatak 2.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<cctype>
+
+1584981814 source:c:\users\lukin\documents\oop-vjezbe\vjezba 3\vjezba 3 zadatak 2\zadatak_2.cpp
+	<iostream>
+
