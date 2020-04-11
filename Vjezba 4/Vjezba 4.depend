@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1586627878 source:c:\users\lukin\documents\oop-vjezbe\vjezba 4\vjezba 4.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+
