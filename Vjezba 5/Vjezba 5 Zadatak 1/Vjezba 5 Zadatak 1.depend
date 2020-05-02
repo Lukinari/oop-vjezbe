@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1586716385 source:c:\users\lukin\documents\oop-vjezbe\vjezba 5\vjezba 5 zadatak 1\card_class.hpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+
+1588448695 source:c:\users\lukin\documents\oop-vjezbe\vjezba 5\vjezba 5 zadatak 1\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+	"Card_Class.hpp"
+	"Mac_Class.hpp"
+	"pclass.hpp"
+
+1587662828 c:\users\lukin\documents\oop-vjezbe\vjezba 5\vjezba 5 zadatak 1\card_class.hpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+
+1587922634 source:c:\users\lukin\documents\oop-vjezbe\vjezba 5\vjezba 5 zadatak 1\card_class.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+	"Card_Class.hpp"
+
+1587662797 c:\users\lukin\documents\oop-vjezbe\vjezba 5\vjezba 5 zadatak 1\mac_class.hpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+
+1587920303 source:c:\users\lukin\documents\oop-vjezbe\vjezba 5\vjezba 5 zadatak 1\mac_class.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+	"Mac_Class.hpp"
+
+1587924534 c:\users\lukin\documents\oop-vjezbe\vjezba 5\vjezba 5 zadatak 1\player_class.hpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+
+1587927489 c:\users\lukin\documents\oop-vjezbe\vjezba 5\vjezba 5 zadatak 1\pclass.hpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+
+1587927501 source:c:\users\lukin\documents\oop-vjezbe\vjezba 5\vjezba 5 zadatak 1\pclass.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+	"pclass.hpp"
+
